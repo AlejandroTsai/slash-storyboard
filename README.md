@@ -1,8 +1,8 @@
 ##工程结构
 
-    user-api        [暴露接口]
-    user-business   [提供Entity等业务模块]
-    user-domain     [提供DTO等展示模块]
+    storyboard-api        [暴露接口]
+    storyboard-business   [提供Entity等业务模块]
+    storyboard-domain     [提供DTO等展示模块]
 
-    user-manger     [系统用户服务]
-    user-service    [PC用户服务]
+    storyboard-manger     [核心管理服务]
+    storyboard-service    [核心服务]
